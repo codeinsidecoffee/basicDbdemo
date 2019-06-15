@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">basicDbDemo</string>
+    <string name="edtID">Enter Your ID Here</string>
+    <string name="edtFName">Enter Your First Name Here</string>
+    <string name="edtLName">Enter Your Last Name Here</string>
+    <string name="edtMobile">Enter Your Mobile Here</string>
+    <string name="btnSubmit">Submit</string>
+</resources>
